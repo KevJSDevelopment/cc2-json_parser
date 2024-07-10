@@ -1,0 +1,173 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/JSON-Parser/bin/Debug/net8.0/JSON-Parser.dll",
+            "args": ["/tests/step1/valid.json"],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "postDebugTask": {
+                "task": "build",
+                "type": "dotnet"
+            }
+        },
+        {
+            "name": ".NET Core Launch (console) 2",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/JSON-Parser/bin/Debug/net8.0/JSON-Parser.dll",
+            "args": ["/tests/step1/invalid.json"],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "postDebugTask": {
+                "task": "build",
+                "type": "dotnet"
+            }
+        },
+        {
+            "name": ".NET Core Launch (console) 3",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/JSON-Parser/bin/Debug/net8.0/JSON-Parser.dll",
+            "args": ["/tests/step2/invalid.json"],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "postDebugTask": {
+                "task": "build",
+                "type": "dotnet"
+            }
+        },
+        {
+            "name": ".NET Core Launch (console) 4",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/JSON-Parser/bin/Debug/net8.0/JSON-Parser.dll",
+            "args": ["/tests/step2/invalid2.json"],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "postDebugTask": {
+                "task": "build",
+                "type": "dotnet"
+            }
+        },
+        {
+            "name": ".NET Core Launch (console) 5",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/JSON-Parser/bin/Debug/net8.0/JSON-Parser.dll",
+            "args": ["/tests/step2/valid.json"],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "postDebugTask": {
+                "task": "build",
+                "type": "dotnet"
+            }
+        },
+        {
+            "name": ".NET Core Launch (console) 6",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/JSON-Parser/bin/Debug/net8.0/JSON-Parser.dll",
+            "args": ["/tests/step2/valid2.json"],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "postDebugTask": {
+                "task": "build",
+                "type": "dotnet"
+            }
+        },
+        {
+            "name": ".NET Core Launch (console) 7",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/JSON-Parser/bin/Debug/net8.0/JSON-Parser.dll",
+            "args": ["/tests/step3/invalid.json"],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "postDebugTask": {
+                "task": "build",
+                "type": "dotnet"
+            }
+        },
+        {
+            "name": ".NET Core Launch (console) 8",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/JSON-Parser/bin/Debug/net8.0/JSON-Parser.dll",
+            "args": ["/tests/step3/valid.json"],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "postDebugTask": {
+                "task": "build",
+                "type": "dotnet"
+            }
+        },
+        {
+            "name": ".NET Core Launch (console) 9",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/JSON-Parser/bin/Debug/net8.0/JSON-Parser.dll",
+            "args": ["/tests/step4/invalid.json"],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "postDebugTask": {
+                "task": "build",
+                "type": "dotnet"
+            }
+        },
+        {
+            "name": ".NET Core Launch (console) 10",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/JSON-Parser/bin/Debug/net8.0/JSON-Parser.dll",
+            "args": ["/tests/step4/valid.json"],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "postDebugTask": {
+                "task": "build",
+                "type": "dotnet"
+            }
+        },
+        {
+            "name": ".NET Core Launch (console) 11",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/JSON-Parser/bin/Debug/net8.0/JSON-Parser.dll",
+            "args": ["/tests/step4/valid2.json"],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "postDebugTask": {
+                "task": "build",
+                "type": "dotnet"
+            }
+        }
+    ]
+}

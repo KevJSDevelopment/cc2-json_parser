@@ -1,0 +1,15 @@
+/Users/kevinsheehan/Projects/Coding Challenges/cc2-json_parser/JSON-Parser/bin/Debug/net8.0/JSON-Parser
+/Users/kevinsheehan/Projects/Coding Challenges/cc2-json_parser/JSON-Parser/bin/Debug/net8.0/JSON-Parser.deps.json
+/Users/kevinsheehan/Projects/Coding Challenges/cc2-json_parser/JSON-Parser/bin/Debug/net8.0/JSON-Parser.runtimeconfig.json
+/Users/kevinsheehan/Projects/Coding Challenges/cc2-json_parser/JSON-Parser/bin/Debug/net8.0/JSON-Parser.dll
+/Users/kevinsheehan/Projects/Coding Challenges/cc2-json_parser/JSON-Parser/bin/Debug/net8.0/JSON-Parser.pdb
+/Users/kevinsheehan/Projects/Coding Challenges/cc2-json_parser/JSON-Parser/obj/Debug/net8.0/JSON-Parser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinsheehan/Projects/Coding Challenges/cc2-json_parser/JSON-Parser/obj/Debug/net8.0/JSON-Parser.AssemblyInfoInputs.cache
+/Users/kevinsheehan/Projects/Coding Challenges/cc2-json_parser/JSON-Parser/obj/Debug/net8.0/JSON-Parser.AssemblyInfo.cs
+/Users/kevinsheehan/Projects/Coding Challenges/cc2-json_parser/JSON-Parser/obj/Debug/net8.0/JSON-Parser.csproj.CoreCompileInputs.cache
+/Users/kevinsheehan/Projects/Coding Challenges/cc2-json_parser/JSON-Parser/obj/Debug/net8.0/JSON-Parser.sourcelink.json
+/Users/kevinsheehan/Projects/Coding Challenges/cc2-json_parser/JSON-Parser/obj/Debug/net8.0/JSON-Parser.dll
+/Users/kevinsheehan/Projects/Coding Challenges/cc2-json_parser/JSON-Parser/obj/Debug/net8.0/refint/JSON-Parser.dll
+/Users/kevinsheehan/Projects/Coding Challenges/cc2-json_parser/JSON-Parser/obj/Debug/net8.0/JSON-Parser.pdb
+/Users/kevinsheehan/Projects/Coding Challenges/cc2-json_parser/JSON-Parser/obj/Debug/net8.0/JSON-Parser.genruntimeconfig.cache
+/Users/kevinsheehan/Projects/Coding Challenges/cc2-json_parser/JSON-Parser/obj/Debug/net8.0/ref/JSON-Parser.dll
